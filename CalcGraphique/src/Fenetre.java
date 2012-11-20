@@ -234,8 +234,6 @@ public class Fenetre extends JFrame {
 		valeur2.setText(sommet);
 		zoneSaisie.setText(sommet);
 	}
-	
-	
 
 	
 }
