@@ -1,6 +1,3 @@
-/*
-* mise à jour 18/12/2012
-*/
 
 // trop bien le projet
 
